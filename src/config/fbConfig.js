@@ -11,12 +11,13 @@ var config = {
     storageBucket: "reactredux-aea5e.appspot.com",
     messagingSenderId: "718919528628",
     appId: "1:718919528628:web:aa4c4cd4a54ad670cfa7e1",
-    measurementId: "G-PLKJFHVKG3"
+    measurementId: "G-PLKJFHVKG3",
 };
 
 // Initialize Firebase
 firebase.initializeApp(config);
 firebase.firestore();
+
 
 
 export default firebase;
