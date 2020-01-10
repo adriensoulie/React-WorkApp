@@ -1,4 +1,4 @@
-# React-Redux-Firebase
+# WorkApp
 
 Application created using create react app
 Techno used : 
