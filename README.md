@@ -36,6 +36,12 @@ View the program added to the dashboard
 ![program](https://i.imgur.com/mSUrnVt.png)
 
 
+## Database
+This is the database and all the collections 
+![database](https://i.imgur.com/8U53aAA.png)
+
+
+
 
 
 
