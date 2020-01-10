@@ -20,4 +20,4 @@ Users are added by collection to the firebase database
 Projects/programs and notifications are added by collection to the firebase database 
 
 Firebase database
-![Firebase](https://imgur.com/MRH3UIN)
+![Firebase](https://i.imgur.com/MRH3UIN.png)
