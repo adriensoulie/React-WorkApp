@@ -5,6 +5,7 @@ Techno used :
 - React
 - Redux 
 - Firebase ( Database, cloud functions )
+- Design done by CSS framework Materialize 
 
 What you can do using this App :
 - Login Users
