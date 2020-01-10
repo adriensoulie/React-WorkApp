@@ -19,5 +19,24 @@ Users are added by collection to the firebase database
 
 Projects/programs and notifications are added by collection to the firebase database 
 
-Firebase database
-![Firebase](https://i.imgur.com/MRH3UIN.png)
+
+## Login / Signup 
+Login or Signup to the App 
+![login](https://i.imgur.com/3XkzZqZ.png)
+
+## App 
+![dashboard](https://i.imgur.com/pzin0Ax.jpg)
+
+## Notifications system using cloud functions 
+When people join the app and post new program/projects/text
+![notification](https://i.imgur.com/jMHeEmn.png)
+
+## Program 
+View the program added to the dashboard 
+![program](https://i.imgur.com/mSUrnVt.png)
+
+
+
+
+
+
